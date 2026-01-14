@@ -35,6 +35,10 @@ This project demonstrates how ML can be applied in banking and finance systems f
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
-python app.py
+
+
+## Dataset
+Dataset is too large for GitHub.
+Download here: https://kaggle.com/your-dataset-link
+
 
